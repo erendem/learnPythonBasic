@@ -19,7 +19,6 @@ end parametresi stringin sonu nasıl biteceğini belirtir,(default \n dir yani a
 sep parametresi seperator'dan gelir ve stringleri neyle ayıracağını söyler.
 
 """
-
 # string definition types
 new_str = """ calculates volume of cone"""
 print(new_str)

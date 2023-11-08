@@ -27,14 +27,14 @@ Soru 2:
 
 Şu şekilde bir liste tanımlanır:
 
-case_sensitive_keyword = ["helloWorld", "myFunctionRunning", "bigProblem", "easyForLoop", "americanfootball"]
+case_sensitive_keyword = ["helloWorld", "myFunctionRunning", "bigProblem", "easyForLoop", "tabletennis"]
 
 yeni bir listede büyük harfe göre kelimeleri ayırıp ve her şeyi küçük yazarak ayrı ayrı kelimeler halinde liste oluşturulur.
 Eğer büyük harf yoksa hiçbi şey yapılmaz kelime aynen yazılır.
 
 örnek yukardaki liste, döngü ile yeni bir listeye dönüştürülür çıktı olarak --> 
 
- new_list = ["hello world", "my function running", "big problem", "easy for loop", "americanfootball"] 
+ new_list = ["hello world", "my function running", "big problem", "easy for loop", "tabletennis"] 
 
 
 """

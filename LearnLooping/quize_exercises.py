@@ -17,13 +17,10 @@ Kullanıcı eğer tam sayı girmez de string girerse hatalı değer girdiniz den
 Eğer kullanıcı float, virgüllü sayı girerse integer'a cast edilip yapılması lazım.
 
 """
-
-
-
+##############################################################
 """
 
 Soru 2:
-
 
 Şu şekilde bir liste tanımlanır:
 
@@ -36,9 +33,8 @@ Eğer büyük harf yoksa hiçbi şey yapılmaz kelime aynen yazılır.
 
  new_list = ["hello world", "my function running", "big problem", "easy for loop", "tabletennis"] 
 
-
 """
-
+##############################################################
 """
 Soru 3:
 

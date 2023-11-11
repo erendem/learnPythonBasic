@@ -59,7 +59,7 @@ print(capitals_dict)
 
 """ Deletion Dictionary """
 
-del capitals_dict["usa"] # usa key ve value karlığını uçurur
+del capitals_dict["usa"] # usa key ve value karşılığını uçurur
 print(capitals_dict)
 
 """ * ! """

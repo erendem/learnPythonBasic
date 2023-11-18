@@ -76,6 +76,10 @@ Detaylar ve tüm methodlar için print(dir(dict)), spesifik istenen methodun aç
 
 """
 
+"""Dict Comprehension"""
+
+s_dict = {i: i*i for i in range(5)}
+print(s_dict)
 
 
 

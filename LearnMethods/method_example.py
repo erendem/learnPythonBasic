@@ -75,6 +75,19 @@ print(help(args_and_kwargs_example))
 args_and_kwargs_example(1,23,53,5,3,2, *[9,8,7], a=5, b=3, **{'c': 7, 'd': 16})
 
 
+""" Lambda Fonksiyonları 
+Tek satırda yazılan fonksiyon görevi gören, isimsiz methodlardır.
+"""
+
+x = lambda l: l + 10
+
+x(10) # 20 döner 'l' oradaki parametresidir ve 10 gönderilirse l+10 dan 20 döner.
+
+y = lambda : print("Argüman almadan çıktı verir")
+y() # çağırırken değişken göndermedik çünkü herhangi bir aldığı parametre yok doğrudan ekrana yazı yazar.
+
+
+
 """
 Hata yakalama
 
